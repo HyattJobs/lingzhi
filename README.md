@@ -1,2 +1,10 @@
-# lingzhi
-A tool for using javascript easily
+#灵芝
+
+```
+var show = function (v) {
+	console.log(v)
+}
+
+exports.show = show
+```
+###致我最爱的人

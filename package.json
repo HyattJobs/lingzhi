@@ -1,0 +1,11 @@
+{
+  "name": "lingzhi",
+  "version": "1.0.6",
+  "description": "A tool for using javascript easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bestliuxingtang",
+  "license": "ISC"
+}
