@@ -1,4 +1,4 @@
-#灵芝
+# 灵芝
 
 ```
 var show = function (v) {
@@ -7,4 +7,4 @@ var show = function (v) {
 
 exports.show = show
 ```
-###致我最爱的人
+### 致我最爱的人
